@@ -26,3 +26,5 @@ It seems as if the first addtional training attempt created the most accurate an
 For this model I included just 2 hidden layers, it is possible that the other models overtrained the data. 
 
 ![Summary](first_attempt_best_accuracy.png)
+
+The model became less accurate the more it was optimized.  This would most likely be due to overfitting of the model.  We could possibly add more data to increase accuracy or possibly remove more features.It might also be valuable to use a Decision Tree model, as this is sometimes more accurate with a small data set.
