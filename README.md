@@ -16,4 +16,9 @@ There were 2 layers that were hidden, the first layer had 80 neurons, the second
 
 ![Accuracy](Model_Accuracy.png)
 
-The model was not very accurate at 54%.
+The model was not very accurate at 54%. Therefore additional steps were taken to further train the model.  This included adding another layer, and decreasing the number of neurons in each layer.
+
+## Summary
+It seems as if the first addtional training attempt created the most accurate analysis at 72% 
+
+![Summary](72_percent.png)
