@@ -9,5 +9,9 @@ The target variable for this model was the "IS_SUCCESSFUL" Column.
 The feature variables for this model were all columns other than the target variable and dropped variables.
 The EIN and NAME variables were dropped from the dataset as they had no impact on the outcome of the analysis.
 
-* Compilinig, Training, and Evaluating the Model
-![](https://github.com/KiraLivingston/Neural_Network_Analysis/raw/main/resources/Trained_Model.png)
+* Compiling, Training, and Evaluating the Model
+![Compiling](Trained_Model.png)
+
+There were 2 layers that were hidden, the first layer had 80 neurons, the second had 30 neurons.
+
+![Accuracy] (Accuracy_Model.png)
