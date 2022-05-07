@@ -15,3 +15,5 @@ The EIN and NAME variables were dropped from the dataset as they had no impact o
 There were 2 layers that were hidden, the first layer had 80 neurons, the second had 30 neurons.
 
 ![Accuracy](Model_Accuracy.png)
+
+The model was not very accurate at 54%.
