@@ -22,3 +22,7 @@ The model was not very accurate at 54%. Therefore additional steps were taken to
 It seems as if the first addtional training attempt created the most accurate analysis at 72% 
 
 ![Summary](72_percent.png)
+
+For this model I included just 2 hidden layers, it is possible that the other models overtrained the data. 
+
+![Summary](first_attempt_best_accuracy.png)
